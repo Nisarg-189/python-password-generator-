@@ -7,6 +7,7 @@ It allows users to customize password length and choose whether to include lower
 
 ## 📁 Project Structure
 
+
 password_generator/
 │── main.py
 │── generator/
